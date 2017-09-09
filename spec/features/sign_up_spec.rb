@@ -7,7 +7,7 @@ feature 'sign up', %(
 ) do
 
   scenario 'specifying valid and required information' do
-    visit submissions_path
+    visit root_path
     click_link 'Sign Up'
 
     fill_in 'First Name', with: 'Jon'
@@ -19,7 +19,7 @@ feature 'sign up', %(
 
     click_button 'Sign Up'
 
-    expect(page).to have_content("You're in!")
+    expect(page).to have_content("Welcome to the game!")
     expect(page).to have_content("Sign Out")
   end
 

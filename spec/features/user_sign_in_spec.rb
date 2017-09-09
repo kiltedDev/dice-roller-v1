@@ -14,7 +14,7 @@ feature 'sign in', %(
     fill_in 'Password', with: user.password
     click_button 'Sign In'
 
-    expect(page).to have_content('Welcome Back!')
+    expect(page).to have_content('Welcome Back! Have a seat.')
     expect(page).to have_content('Sign Out')
     expect(page).to_not have_content('Sign In')
   end
