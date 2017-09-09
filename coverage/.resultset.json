@@ -1,0 +1,57 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/twilson.spqr/challenges/side-projects/dice-roller/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/twilson.spqr/challenges/side-projects/dice-roller/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/twilson.spqr/challenges/side-projects/dice-roller/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/twilson.spqr/challenges/side-projects/dice-roller/app/helpers/application_helper.rb": [
+        0,
+        0
+      ],
+      "/Users/twilson.spqr/challenges/side-projects/dice-roller/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/twilson.spqr/challenges/side-projects/dice-roller/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/twilson.spqr/challenges/side-projects/dice-roller/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/twilson.spqr/challenges/side-projects/dice-roller/app/models/user.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1504972724
+  }
+}
